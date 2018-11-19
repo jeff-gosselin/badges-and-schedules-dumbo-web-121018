@@ -20,5 +20,5 @@ def assign_rooms(names)
 end
 
 def printer(names)
-  
+  puts assigned.each
 end
